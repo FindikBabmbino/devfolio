@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
         title: `Sinan Berk Karaagac | Gameplay Programmer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `My little cyber-place`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
