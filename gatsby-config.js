@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://sinanbkagaac.netlify.app/`,
+    siteUrl: `https://sinanberkkagaac.netlify.app/`,
     // Your Name
-    name: 'Sinan Berk Karaaðaç',
+    name: 'Sinan Berk Karaagac',
     // Main Site Title
-        title: `Sinan Berk Karaaðaç | Gameplay Programmer`,
+        title: `Sinan Berk Karaagac | Gameplay Programmer`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
