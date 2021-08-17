@@ -15,6 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sinan-berk-karaa%C4%9Fa%C3%A7-9a139313a/`,
     // Content of the About Me section
+        fiverr: `https://www.fiverr.com/findikbabi/create-new-gameplay-functions-or-fix-your-code?context_referrer=search_gigs&source=top-bar&ref_ctx_id=78ae1dfffa92aca3e7e92c8021a1e76f&pckg_id=1&pos=3&context_type=auto&funnel=2cb46aa83855a6a52600bbd7dea24cc5&seller_online=true`,
         about: `I am a hardworking game dev who wants to make games that can bring joy to people, to me games are an art form that can make people escape from their realities and let them forget about their stressful daily life, and inspire them by the stories and characters they play. I am skilled in writing, game design, C++ and C#.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [

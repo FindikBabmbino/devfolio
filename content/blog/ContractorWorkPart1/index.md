@@ -33,5 +33,11 @@ https://www.youtube.com/watch?v=0JlYrF4A8es&feature=youtu.be
 
 ## Project 3:Farm game
 
-I was brought into this project to fix the tutorial and make dynamic scriptable object UI's 
+I was brought into this project to fix the tutorial and make dynamic scriptable object UI's, my main task was to make an UI screen after getting an item, this screen then would display what you found, it had to be something that is universal.
+So I used scriptable objects to make it happen, had to overhaul the existing item and item spawn code and had to write new code for the UI.
+
+Down below you can find the video of the project
+
+https://www.youtube.com/watch?v=PR4rpO71nqk&feature=youtu.be
+ 
 
