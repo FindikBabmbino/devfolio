@@ -18,7 +18,7 @@ Just like that Galip Gulup was born!
 
 ##My Duties
 
-I was the only programmer on this prototype, because of that I had to code everything from AI, player abilities, player controller, UI, Save Systems, Event systems and so on.
+I was the only programmer on this prototype, because of that I had to code everything from AI, player abilities, player controller, UI, Save Systems, Event systems and so on, I also handled the world building, story and dialogue on this project.
 because of this there is a lot to talk about and I don't want to bore anybody so I will just give small explanations on how I tackled some systems. I also tackled VFX, Level Design and some SFX.
 
 ##Player Controller
@@ -59,7 +59,7 @@ and these are able to be chained toghether with many states, it works with unity
 ##The Boring Stuff
 
 I could talk about the data manager, the save and load, UI, and other managers but they are not that interesting or noteworthy in my opinion, and like I said I would rather fill this blog with simple explanations and talk about the interesting systems.
-Now let's get this done, finally I'll talk about the vfx and level design.
+Now let's get this done, finally I'll talk about the vfx,level design and the story.
 
 ##VFX
 
@@ -70,6 +70,13 @@ Everything related to vfx in this game was done by me, it is rather simple since
 The prototype map was made by me, it went through lots of iterations and changes, what we knew from the begining was that the map was going to be a part of the main story (for reusability sake) and was going to feature everything the player could do with a healthy lenght, this lacked from the early versions but I am satisfied with the current version we have.
 The map is based from the "Rooftops" and a part of the "Streets" chapte from the game.
 
+##Story
+
+I won't go in depht on the story since the prototype features a small piece of it but one of the challenges was having a silence protagonist, because of this we invented the 'Friend' character that chatters about on the players ear that talks about the world giving clues about the player situation and acting as a tutorial for the players abilities,
+world building of Lilean was a long endeavour (even if it is not really seen on the prototype) it took many iterations to get it right, first one was too ambitious and complicated, while the second one felt like a bargain bin of the first one, the final one we have is simpler but still keeps the mysterious vibes of the first story line and is less confusing,
+if lilean does ever become a full game I would love people to see what we got in store.
+
 ##End notes
 
 Lilean was always supposed to be homework for us, getting to know how to make games and see the struggles it had, we don't know if Lilean will every be a full game but we took away a lot from it, it was a real learning experience.
+Link to the game can be found here: https://findik-bambino.itch.io/lileanproto
