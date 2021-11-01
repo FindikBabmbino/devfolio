@@ -39,6 +39,13 @@ module.exports = {
           link: 'https://www.fiverr.com/findikbabi/create-new-gameplay-functions-or-fix-your-code?context_referrer=search_gigs&source=top-bar&ref_ctx_id=5b90073188fa00e80b38c1459d7345c1&pckg_id=1&pos=1&context_type=auto&funnel=10b495b9955405d749ca0573bae9141d&seller_online=true',
       },
     ],
+    othersites: [
+      {
+        name: 'Itch.io',
+        description: 'I release some games here',
+        link: 'https://findik-bambino.itch.io/',
+      },
+    ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
