@@ -30,6 +30,12 @@ module.exports = {
         description:
           'A turn based short experience that features a lot of in jokes',
         link: 'https://drive.google.com/file/d/1tQLoF-sg4AIpJUeFvvXcZtvskn3MQA9b/view?usp=sharing'
+      },
+      {
+        name: 'Office Rage',
+        description:
+          'Beat-em up game',
+        link: 'https://findik-bambino.itch.io/office-rage'
       }
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
