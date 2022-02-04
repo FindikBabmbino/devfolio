@@ -55,6 +55,10 @@ module.exports = {
         description: 'I release some games here',
         link: 'https://findik-bambino.itch.io/',
       },
+      {
+        name: 'Bahcesehir Idea',
+        description: 'This is where I studied game design, it is a part of the Bahcesehir University',
+      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
