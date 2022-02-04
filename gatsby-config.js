@@ -58,7 +58,7 @@ module.exports = {
       {
         name: 'Bahcesehir Idea',
         description: 'This is where I studied game design, it is a part of the Bahcesehir University',
-      },
+      }
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
