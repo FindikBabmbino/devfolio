@@ -60,6 +60,11 @@ module.exports = {
         description: 'This is where I studied game design, it is a part of the Bahcesehir University',
         link:'',
       },
+      {
+        name: 'Baskent University',
+        description: 'This is where I am currently studying translation studies (2020-2024)',
+        link:'',
+      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
