@@ -36,7 +36,12 @@ module.exports = {
         description:
           'Beat-em up game',
         link: 'https://findik-bambino.itch.io/office-rage'
-      }
+      },
+      {
+        name: 'Beyond The Forbidden Lands',
+        description: 'Fan remake of Shadow Of Colossus, that brings cut colossi and areas back to the game',
+        link:'http://btflgame.com/',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
@@ -64,6 +69,11 @@ module.exports = {
         name: 'Baskent University',
         description: 'This is where I am currently studying translation studies (2020-2024)',
         link:'',
+      },
+      {
+        name: 'Beyond The Forbidden Lands',
+        description: 'I work as a programmer on this project (2022-Present)',
+        link:'http://btflgame.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
