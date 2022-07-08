@@ -20,27 +20,51 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Lilean',
+        name: 'Unity - Lilean',
         description:
           'A break neck speed, physics based fps game',
        link: 'https://findik-bambino.itch.io/lileanproto',
       },
       {
-        name: 'Orhan Quest',
+        name: 'Unity - Orhan Quest',
         description:
           'A turn based short experience that features a lot of in jokes',
         link: 'https://drive.google.com/file/d/1tQLoF-sg4AIpJUeFvvXcZtvskn3MQA9b/view?usp=sharing'
       },
       {
-        name: 'Office Rage',
+        name: 'Unity - Office Rage',
         description:
           'Beat-em up game',
         link: 'https://findik-bambino.itch.io/office-rage'
       },
       {
-        name: 'Beyond The Forbidden Lands',
+        name: 'Unity - Beyond The Forbidden Lands',
         description: 'Fan remake of Shadow Of Colossus, that brings cut colossi and areas back to the game',
         link:'http://btflgame.com/',
+      },
+      {
+        name: 'Python - Quiz Game',
+        description:
+          'Simple quiz game',
+       link: 'https://github.com/FindikBabmbino/Python-QuizGame',
+      },
+      {
+        name: 'Python - Dice Game',
+        description:
+          'Roll the dice forever!',
+       link: 'https://github.com/FindikBabmbino/Python-DiceGame',
+      },
+      {
+        name: 'Python - Name List',
+        description:
+          'Input names into the list',
+       link: 'https://github.com/FindikBabmbino/Python-NameList',
+      },
+      {
+        name: 'Python - Rock Paper Scissors',
+        description:
+          '',
+       link: 'https://github.com/FindikBabmbino/Python-RockPaperScissors',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -81,7 +105,7 @@ module.exports = {
       {
         name: 'Programming Languages',
         description:
-          'C++,C#',
+          'C++, C#, Python',
       },
       {
         name: 'Game Design',
