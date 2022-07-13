@@ -40,7 +40,7 @@ module.exports = {
       {
         name: 'Unity - Beyond The Forbidden Lands',
         description: 'Fan remake of Shadow Of Colossus, that brings cut colossi and areas back to the game',
-        link:'http://btflgame.com/',
+        link:'https://www.youtube.com/watch?v=j8OxUJPxAyo&list=PLdHC-rS_Gu4VOzSsczG4ky-Jmj-44BXs4',
       },
       {
         name: 'Unity - Lilean2D',
