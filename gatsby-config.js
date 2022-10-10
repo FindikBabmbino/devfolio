@@ -78,6 +78,30 @@ module.exports = {
           '',
        link: 'https://github.com/FindikBabmbino/Python-RockPaperScissors',
       },
+      {
+        name: 'Python - Astroid Game',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+       link: 'https://github.com/FindikBabmbino/Astroid-Game',
+      },
+      {
+        name: 'Python - Frogger Clone',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+       link: 'https://github.com/FindikBabmbino/Frogger-Clone',
+      },
+      {
+        name: 'Python - Western',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+       link: 'https://github.com/FindikBabmbino/Western-Game',
+      },
+      {
+        name: 'Python - Shooter',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+       link: 'https://github.com/FindikBabmbino/Shooter-Game',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
@@ -125,7 +149,7 @@ module.exports = {
       },
       {
         name: 'Tools',
-        description: 'Unity,Unreal,Aseprite',
+        description: 'Unity,Unreal,Aseprite,Godot',
           
       },
     ],
