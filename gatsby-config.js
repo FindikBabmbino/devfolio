@@ -42,16 +42,6 @@ module.exports = {
         link: 'https://www.youtube.com/watch?v=j8OxUJPxAyo&list=PLdHC-rS_Gu4VOzSsczG4ky-Jmj-44BXs4',
       },
       {
-        name: 'Unity - Climb The Corprate Ladder',
-        description: 'A rogue-like game. W.I.P',
-        link: 'https://www.youtube.com/watch?v=JleeCMmT9Jw',
-      },
-      {
-        name: 'Godot - Climb The Corprate Ladder',
-        description: 'RPG game. W.I.P',
-        link: 'https://www.youtube.com/watch?v=HULx85sWroA',
-      },
-      {
         name: 'Unity - Canceled Project',
         description:
           'This was a third person action adventure project I was working on with a team, it got canned',
@@ -129,6 +119,12 @@ module.exports = {
         name: 'Baskent University',
         description:
           'This is where I am currently studying translation studies (2020-2024)',
+        link: '',
+      },
+      {
+        name: 'Anadolu University',
+        description:
+          'This is where I am currently studying computer programming studies (2022-2024)',
         link: '',
       },
       {
