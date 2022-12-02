@@ -52,7 +52,7 @@ module.exports = {
       },
 
       {
-        name: 'Godot - Climb The Corprate Ladder',
+        name: 'Godot - As Fly As A Butterfly',
         description: 'RPG game. W.I.P',
         link: 'https://www.youtube.com/watch?v=HULx85sWroA',
       },
