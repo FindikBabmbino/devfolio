@@ -24,6 +24,96 @@ module.exports = {
         description: 'A break neck speed, physics based fps game',
         link: 'https://findik-bambino.itch.io/lileanproto',
       },
+
+      {
+        name: 'Unity - Orhan Quest',
+        description:
+          'A turn based short experience that features a lot of in jokes',
+        link: 'https://drive.google.com/file/d/1tQLoF-sg4AIpJUeFvvXcZtvskn3MQA9b/view?usp=sharing',
+      },
+
+      {
+        name: 'Unity - Office Rage',
+        description: 'Beat-em up game',
+        link: 'https://findik-bambino.itch.io/office-rage',
+      },
+
+      {
+        name: 'Unity - Beyond The Forbidden Lands',
+        description:
+          'Fan remake of Shadow Of Colossus, that brings cut colossi and areas back to the game',
+        link: 'https://www.youtube.com/watch?v=j8OxUJPxAyo&list=PLdHC-rS_Gu4VOzSsczG4ky-Jmj-44BXs4',
+      },
+
+      {
+        name: 'Unity - Climb The Corprate Ladder',
+        description: 'A rogue-like game. W.I.P',
+        link: 'https://www.youtube.com/watch?v=JleeCMmT9Jw',
+      },
+
+      {
+        name: 'Godot - Climb The Corprate Ladder',
+        description: 'RPG game. W.I.P',
+        link: 'https://www.youtube.com/watch?v=HULx85sWroA',
+      },
+
+      {
+        name: 'Unity - Canceled Project',
+        description:
+          'This was a third person action adventure project I was working on with a team, it got canned',
+        link: 'https://github.com/FindikBabmbino/AFAAB',
+      },
+
+      {
+        name: 'Python - Quiz Game',
+        description: 'Simple quiz game',
+        link: 'https://github.com/FindikBabmbino/Python-QuizGame',
+      },
+      {
+        name: 'Python - Dice Game',
+        description: 'Roll the dice forever!',
+        link: 'https://github.com/FindikBabmbino/Python-DiceGame',
+      },
+
+      {
+        name: 'Python - Name List',
+        description: 'Input names into the list',
+        link: 'https://github.com/FindikBabmbino/Python-NameList',
+      },
+
+      {
+        name: 'Python - Rock Paper Scissors',
+        description: '',
+        link: 'https://github.com/FindikBabmbino/Python-RockPaperScissors',
+      },
+
+      {
+        name: 'Python - Astroid Game',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+        link: 'https://github.com/FindikBabmbino/Astroid-Game',
+      },
+
+      {
+        name: 'Python - Frogger Clone',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+        link: 'https://github.com/FindikBabmbino/Frogger-Clone',
+      },
+
+      {
+        name: 'Python - Western',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+        link: 'https://github.com/FindikBabmbino/Western-Game',
+      },
+
+      {
+        name: 'Python - Shooter',
+        description:
+          'Made with pygame. This project was part of a course I was taking',
+        link: 'https://github.com/FindikBabmbino/Shooter-Game',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
@@ -31,6 +121,39 @@ module.exports = {
         name: 'Galip Gulup',
         description: 'Lead Developer, January 2021 - Present',
         link: '',
+      },
+      {
+        name: 'Fiverr',
+        description: 'Gameplay Programmer, June 2021-Present',
+        link: 'https://www.fiverr.com/findikbabi/create-new-gameplay-functions-or-fix-your-code?context_referrer=search_gigs&source=top-bar&ref_ctx_id=5b90073188fa00e80b38c1459d7345c1&pckg_id=1&pos=1&context_type=auto&funnel=10b495b9955405d749ca0573bae9141d&seller_online=true',
+      },
+      {
+        name: 'Itch.io',
+        description: 'I release some games here',
+        link: 'https://findik-bambino.itch.io/',
+      },
+      {
+        name: 'Bahcesehir Idea',
+        description:
+          'This is where I studied game design, it is a part of the Bahcesehir University',
+        link: '',
+      },
+      {
+        name: 'Baskent University',
+        description:
+          'This is where I am currently studying translation studies (2020-2024)',
+        link: '',
+      },
+      {
+        name: 'Anadolu University',
+        description:
+          'This is where I am currently studying computer programming studies (2022-2024)',
+        link: '',
+      },
+      {
+        name: 'Beyond The Forbidden Lands',
+        description: 'I work as a programmer on this project (2022-Present)',
+        link: 'http://btflgame.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
