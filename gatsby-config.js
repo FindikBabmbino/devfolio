@@ -24,29 +24,45 @@ module.exports = {
         description: 'A break neck speed, physics based fps game',
         link: 'https://findik-bambino.itch.io/lileanproto',
       },
+
       {
         name: 'Unity - Orhan Quest',
         description:
           'A turn based short experience that features a lot of in jokes',
         link: 'https://drive.google.com/file/d/1tQLoF-sg4AIpJUeFvvXcZtvskn3MQA9b/view?usp=sharing',
       },
+
       {
         name: 'Unity - Office Rage',
         description: 'Beat-em up game',
         link: 'https://findik-bambino.itch.io/office-rage',
       },
+
       {
         name: 'Unity - Beyond The Forbidden Lands',
         description:
           'Fan remake of Shadow Of Colossus, that brings cut colossi and areas back to the game',
         link: 'https://www.youtube.com/watch?v=j8OxUJPxAyo&list=PLdHC-rS_Gu4VOzSsczG4ky-Jmj-44BXs4',
       },
+
+      {
+        name: 'Unity - Climb The Corprate Ladder',
+        description: 'A rogue-like game. W.I.P',
+        link: 'https://www.youtube.com/watch?v=JleeCMmT9Jw',
+      },
+      {
+        name: 'Godot - Climb The Corprate Ladder',
+        description: 'RPG game. W.I.P',
+        link: 'https://www.youtube.com/watch?v=HULx85sWroA',
+      },
+
       {
         name: 'Unity - Canceled Project',
         description:
           'This was a third person action adventure project I was working on with a team, it got canned',
         link: 'https://github.com/FindikBabmbino/AFAAB',
       },
+
       {
         name: 'Python - Quiz Game',
         description: 'Simple quiz game',
@@ -57,34 +73,40 @@ module.exports = {
         description: 'Roll the dice forever!',
         link: 'https://github.com/FindikBabmbino/Python-DiceGame',
       },
+
       {
         name: 'Python - Name List',
         description: 'Input names into the list',
         link: 'https://github.com/FindikBabmbino/Python-NameList',
       },
+
       {
         name: 'Python - Rock Paper Scissors',
         description: '',
         link: 'https://github.com/FindikBabmbino/Python-RockPaperScissors',
       },
+
       {
         name: 'Python - Astroid Game',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Astroid-Game',
       },
+
       {
         name: 'Python - Frogger Clone',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Frogger-Clone',
       },
+
       {
         name: 'Python - Western',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Western-Game',
       },
+
       {
         name: 'Python - Shooter',
         description:
