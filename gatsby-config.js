@@ -114,6 +114,12 @@ module.exports = {
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Shooter-Game',
       },
+      {
+        name: 'Python - Collection of Convertors',
+        description:
+          'This is a python app I made with pysimplegui, it is an app that contains convertors of all kind(Feet to inches, Mph To Kmph, etc). It will be updated with time',
+        link: 'https://github.com/FindikBabmbino/MultiConvertorProject',
+      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
