@@ -20,102 +20,108 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Unity - Lilean',
+        name: 'Unity - Lilean (Click on me!)',
         description: 'A break neck speed, physics based fps game',
         link: 'https://findik-bambino.itch.io/lileanproto',
       },
 
       {
-        name: 'Unity - Orhan Quest',
+        name: 'Unity - Orhan Quest (Click on me!)',
         description:
           'A turn based short experience that features a lot of in jokes',
         link: 'https://drive.google.com/file/d/1tQLoF-sg4AIpJUeFvvXcZtvskn3MQA9b/view?usp=sharing',
       },
 
       {
-        name: 'Unity - Office Rage',
+        name: 'Unity - Office Rage (Click on me!)',
         description: 'Beat-em up game',
         link: 'https://findik-bambino.itch.io/office-rage',
       },
 
       {
-        name: 'Unity - Beyond The Forbidden Lands',
+        name: 'Unity - Beyond The Forbidden Lands (Click on me!)',
         description:
           'Fan remake of Shadow Of Colossus, that brings cut colossi and areas back to the game',
         link: 'https://www.youtube.com/watch?v=j8OxUJPxAyo&list=PLdHC-rS_Gu4VOzSsczG4ky-Jmj-44BXs4',
       },
 
       {
-        name: 'Unity - Climb The Corprate Ladder',
+        name: 'Unity - Climb The Corporate Ladder (Click on me!)',
         description: 'A rogue-like game. W.I.P',
-        link: 'https://www.youtube.com/watch?v=JleeCMmT9Jw',
+        link: 'https://youtu.be/kqQuDtScGDA',
       },
 
       {
-        name: 'Godot - As Fly As A Butterfly',
+        name: 'Unity - Bear Valentines Rampage (Click on me!)',
+        description: 'Game I made for valentines in one to two days',
+        link: 'https://findik-bambino.itch.io/bear-valentines-rampage',
+      },
+
+      {
+        name: 'Godot - As Fly As A Butterfly (Click on me!)',
         description: 'RPG game. W.I.P',
         link: 'https://www.youtube.com/watch?v=HULx85sWroA',
       },
 
       {
-        name: 'Unity - Canceled Project',
+        name: 'Unity - Canceled Project (Click on me!)',
         description:
           'This was a third person action adventure project I was working on with a team, it got canned',
         link: 'https://github.com/FindikBabmbino/AFAAB',
       },
 
       {
-        name: 'Python - Quiz Game',
+        name: 'Python - Quiz Game (Click on me!)',
         description: 'Simple quiz game',
         link: 'https://github.com/FindikBabmbino/Python-QuizGame',
       },
       {
-        name: 'Python - Dice Game',
+        name: 'Python - Dice Game (Click on me!)',
         description: 'Roll the dice forever!',
         link: 'https://github.com/FindikBabmbino/Python-DiceGame',
       },
 
       {
-        name: 'Python - Name List',
+        name: 'Python - Name List (Click on me!)',
         description: 'Input names into the list',
         link: 'https://github.com/FindikBabmbino/Python-NameList',
       },
 
       {
-        name: 'Python - Rock Paper Scissors',
+        name: 'Python - Rock Paper Scissors (Click on me!)',
         description: '',
         link: 'https://github.com/FindikBabmbino/Python-RockPaperScissors',
       },
 
       {
-        name: 'Python - Astroid Game',
+        name: 'Python - Astroid Game (Click on me!)',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Astroid-Game',
       },
 
       {
-        name: 'Python - Frogger Clone',
+        name: 'Python - Frogger Clone (Click on me!)',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Frogger-Clone',
       },
 
       {
-        name: 'Python - Western',
+        name: 'Python - Western (Click on me!)',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Western-Game',
       },
 
       {
-        name: 'Python - Shooter',
+        name: 'Python - Shooter (Click on me!)',
         description:
           'Made with pygame. This project was part of a course I was taking',
         link: 'https://github.com/FindikBabmbino/Shooter-Game',
       },
       {
-        name: 'Python - Collection of Convertors',
+        name: 'Python - Collection of Convertors (Click on me!)',
         description:
           'This is a python app I made with pysimplegui, it is an app that contains convertors of all kind(Feet to inches, Mph To Kmph, etc). It will be updated with time',
         link: 'https://github.com/FindikBabmbino/MultiConvertorProject',
@@ -129,12 +135,12 @@ module.exports = {
         link: '',
       },
       {
-        name: 'Fiverr',
+        name: 'Fiverr (Click on me!)',
         description: 'Gameplay Programmer, June 2021-Present',
         link: 'https://www.fiverr.com/findikbabi/create-new-gameplay-functions-or-fix-your-code?context_referrer=search_gigs&source=top-bar&ref_ctx_id=5b90073188fa00e80b38c1459d7345c1&pckg_id=1&pos=1&context_type=auto&funnel=10b495b9955405d749ca0573bae9141d&seller_online=true',
       },
       {
-        name: 'Itch.io',
+        name: 'Itch.io (Click on me!)',
         description: 'I release some games here',
         link: 'https://findik-bambino.itch.io/',
       },
@@ -157,7 +163,7 @@ module.exports = {
         link: '',
       },
       {
-        name: 'Beyond The Forbidden Lands',
+        name: 'Beyond The Forbidden Lands (Click on me!)',
         description: 'I work as a programmer on this project (2022-Present)',
         link: 'http://btflgame.com/',
       },
